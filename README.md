@@ -1,0 +1,22 @@
+# Chatting-Room
+Involved NodeJS &amp; WebSocket
+
+
+HiChat
+
+A chat application built with Node.js and socket.io.
+
+
+Features
+
+send pictures :sunrise:
+send emojis :smile:
+keyboard support :musical_keyboard:
+online users count statistic :ghost:
+
+How to run
+
+download the code then extract
+run npm install from command line window
+run node server or iojs server if you are using io.js
+finnaly, open your browser and visit localhost:3000
