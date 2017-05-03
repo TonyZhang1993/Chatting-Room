@@ -16,7 +16,7 @@ online users count statistic :ghost:
 
 How to run
 
-download the code then extract
-run npm install from command line window
-run node server or iojs server if you are using io.js
-finnaly, open your browser and visit localhost:3000
+1.download the code then extract
+2.run npm install from command line window
+3.run node server or iojs server if you are using io.js
+4.finnaly, open your browser and visit localhost:3000
